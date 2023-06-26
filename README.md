@@ -1,2 +1,1 @@
-# html_css_Awax
-HTML/CSS Exercise
+Site para entrega de Pizzas desmonstrando uso de HTML/CSS e JS
